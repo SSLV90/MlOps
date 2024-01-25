@@ -1,0 +1,4 @@
+[core]
+     remote = ssh-storage
+ ['remote "ssh-storage"']
+     url = ssh://david@172.16.236.133/home/MLops
