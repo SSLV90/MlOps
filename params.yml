@@ -1,0 +1,9 @@
+split:
+   split_ratio: 0.3
+
+ train:
+   seed: 54
+   max_depth: 4
+   C: 2
+   gamma: 0.6
+   kernel: 'linear' 
